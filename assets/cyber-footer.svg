@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="145" viewBox="0 0 1200 145" role="img" aria-label="Build more. Dream bigger. Stay curious.">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0A0C11"/><stop offset=".68" stop-color="#191219"/><stop offset="1" stop-color="#40200C"/></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF6517"/><stop offset="1" stop-color="#FFBD69"/></linearGradient>
+ </defs>
+ <rect width="1200" height="145" rx="18" fill="url(#bg)"/>
+ <path d="M25 40V20H65M1135 20h40v20M1175 105v20h-40M65 125H25v-20" stroke="#FF7823" fill="none" stroke-width="2"/>
+ <path d="M70 73H355M845 73h285" stroke="#FF8B39" stroke-opacity=".35" stroke-width="1"/>
+ <path d="M336 73l12-6 12 6-12 6zM852 73l-12-6-12 6 12 6z" fill="#FF8B39"/>
+ <text x="600" y="67" text-anchor="middle" fill="url(#orange)" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="29" letter-spacing="2.4">BUILD. EXPLORE. EVOLVE.</text>
+ <text x="600" y="96" text-anchor="middle" fill="#ADB2BE" font-family="monospace" font-size="14" letter-spacing="1.8">THE JOURNEY IS ONLY GETTING STARTED</text>
+ <rect x="1" y="1" width="1198" height="143" rx="17" fill="none" stroke="#F47B2A" stroke-opacity=".3" stroke-width="2"/>
+</svg>
