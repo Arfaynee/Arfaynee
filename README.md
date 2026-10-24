@@ -1,11 +1,11 @@
 
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<!-- HEADER ORANGE BLACK -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:252525,75:FF6A00,100:FF9D00&height=220&section=header&text=FARHAN%20BAGAS%20FIRMANSYAH&fontSize=29&fontColor=FFFFFF&fontAlignY=36&desc=INFORMATICS%20MANAGEMENT%20STUDENT&descSize=14&descAlignY=57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:202020,75:FF6A00,100:FF9D00&height=230&section=header&text=FARHAN%20BAGAS%20FIRMANSYAH&fontSize=29&fontColor=FFFFFF&fontAlignY=36&desc=INFORMATICS%20MANAGEMENT%20STUDENT&descSize=15&descAlignY=58&animation=fadeIn" />
 
-<!-- ANIMATED TEXT -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=FF8C32&center=true&vCenter=true&width=520&lines=Welcome+to+my+little+world;Universitas+Negeri+Surabaya;Small+steps%2C+big+dreams;Learning+and+growing+every+day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=FF8C32&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub;Universitas+Negeri+Surabaya;Learning+and+growing+every+day;Small+steps%2C+big+dreams" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,9 +19,11 @@
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
+
 <h2 align="center">🟠 ABOUT ME</h2>
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -31,6 +33,8 @@ I'm **Farhan Bagas Firmansyah**, an Informatics Management student at **Universi
 
 I enjoy learning new things, exploring technology, and gaining experience step by step.
 
+My goal is to keep improving my skills and learn something new along the way.
+
 </td>
 <td width="40%" valign="top">
 
@@ -38,8 +42,9 @@ I enjoy learning new things, exploring technology, and gaining experience step b
 
 - 🎓 Informatics Management
 - 🏫 Universitas Negeri Surabaya
-- 🌏 Indonesia
-- 🎮 Gaming in my free time
+- 🌍 Indonesia
+- 🎮 Gaming enthusiast
+- 🏎️ Automotive interest
 - 🌱 Always learning
 
 </td>
@@ -48,26 +53,31 @@ I enjoy learning new things, exploring technology, and gaining experience step b
 
 ---
 
+<!-- ===================== MY JOURNEY ===================== -->
+
 <h2 align="center">🔥 MY JOURNEY</h2>
 
-<table>
+<div align="center">
+
+<table align="center" width="90%">
 <tr>
 <td align="center" width="33%">
 
 <img src="https://img.shields.io/badge/01-FF6A00?style=for-the-badge" />
 
-### 🎓 Education
+<h3>🎓 Education</h3>
 
 Universitas Negeri Surabaya
 
 Informatics Management
 
 </td>
+
 <td align="center" width="33%">
 
 <img src="https://img.shields.io/badge/02-FF8C32?style=for-the-badge" />
 
-### 💻 Learning
+<h3>💻 Learning</h3>
 
 Technology
 
@@ -76,11 +86,12 @@ Information Systems
 New Experiences
 
 </td>
+
 <td align="center" width="33%">
 
 <img src="https://img.shields.io/badge/03-CC5200?style=for-the-badge" />
 
-### 🚀 Growth
+<h3>🚀 Growth</h3>
 
 Better Skills
 
@@ -92,70 +103,86 @@ Better Future
 </tr>
 </table>
 
+</div>
+
 ---
+
+<!-- ===================== MY LITTLE CORNER ===================== -->
 
 <h2 align="center">🎮 MY LITTLE CORNER</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GAMING-ENJOY%20THE%20MOMENT-FF6A00?style=for-the-badge&logo=steam&logoColor=white" />
-<img src="https://img.shields.io/badge/LEARNING-ONE%20STEP%20AT%20A%20TIME-242424?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VIBES-STAY%20POSITIVE-CC5200?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GAMING-LEVEL%20UP-FF6A00?style=for-the-badge&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/AUTOMOTIVE-FULL%20THROTTLE-242424?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TECH-ALWAYS%20LEARNING-CC5200?style=for-the-badge" />
 
 <br/><br/>
 
 <pre>
-      ✦       .        ✧
-   🎧     🎮     🧸
-       ╭──────────╮
-       │  CHILL   │
-       │  & PLAY  │
-       ╰──────────╯
-   🕹️     🐈‍⬛     ✨
-      .        ✦
+             ⚡ ORANGE MODE ⚡
+
+       🎧          🎮          🏎️
+
+             ╔════════════╗
+             ║  GAME ON   ║
+             ║  LEVEL UP  ║
+             ╚════════════╝
+
+       🕹️          💻          🔥
+
+       BLACK × ORANGE × GAMING
 </pre>
 
-### 🎧 Gaming • Chill • Good Vibes
+<h3>🎧 Gaming • Cars • Technology</h3>
 
-<sub>☕ Take a break, enjoy the journey.</sub>
+<p>
+  <sub>Play hard. Stay focused. Keep improving.</sub>
+</p>
 
 </div>
 
 ---
+
+<!-- ===================== GITHUB STATS ===================== -->
 
 <h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arfaynee&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D0D0D&title_color=FF8C32&text_color=E5E5E5&icon_color=FF6A00" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arfaynee&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF8C32&text_color=FFFFFF&icon_color=FF6A00" alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF8C32&text_color=E5E5E5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF8C32&text_color=FFFFFF" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfaynee&hide_border=true&background=0D0D0D&stroke=663300&ring=FF8C32&fire=FF6A00&currStreakLabel=FF8C32&sideLabels=E5E5E5&dates=999999" />
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfaynee&theme=dark&hide_border=true&background=0D0D0D&ring=FF6A00&fire=FF8C32&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8C32&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
 
 </div>
 
 ---
+
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
 
 <h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arfaynee&bg_color=0D0D0D&color=FF8C32&line=FF6A00&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arfaynee&bg_color=0D0D0D&color=FF8C32&line=FF6A00&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity" />
 
 </div>
 
 ---
 
+<!-- ===================== GOAL ===================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,50:3A1C00,100:FF6A00&height=120&section=header&text=MAKE%20PROGRESS&fontSize=27&fontColor=FFFFFF&fontAlignY=38&desc=NOT%20EXCUSES&descSize=16&descAlignY=68" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,50:3A1C00,100:FF6A00&height=130&section=header&text=MAKE%20PROGRESS&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=NOT%20EXCUSES&descSize=16&descAlignY=68" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FF8C32&center=true&vCenter=true&width=450&lines=Small+steps%2C+big+dreams.;Keep+learning%2C+keep+growing.;Your+journey%2C+your+story." alt="Motivational text" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FF8C32&center=true&vCenter=true&width=450&lines=Small+steps%2C+big+dreams.;Keep+learning%2C+keep+growing.;Your+journey%2C+your+story." alt="Motivational Text" />
 
 <br/><br/>
 
