@@ -1,16 +1,18 @@
-# 👋 Hello, I'm Farhan Bagas Firmansyah
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Farhan%20Bagas%20Firmansyah&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=Informatics%20Management%20Student&descSize=16&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B33,50:5B3CC4,100:168AAD&height=220&section=header&text=Farhan%20Bagas%20Firmansyah&fontSize= thirty&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Management%20Student&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-### 🎓 Informatics Management Student
+### 👋 Hello, Welcome to My GitHub!
 
-**Universitas Negeri Surabaya**
+🎓 **Universitas Negeri Surabaya**  
+📚 Informatics Management
+
+*Learning, growing, and enjoying the process.*
 
 </div>
 
@@ -18,17 +20,33 @@
 
 ### 🙋 About Me
 
-Hi! I'm **Farhan Bagas Firmansyah**, an Informatics Management student at Universitas Negeri Surabaya.
+Hi! I'm **Farhan Bagas Firmansyah**, a student at Universitas Negeri Surabaya. I'm currently learning new things, exploring technology, and developing my skills step by step.
 
-- 🎓 Student at Universitas Negeri Surabaya
-- 💻 Interested in technology and information systems
-- 📚 Currently learning and exploring new things
-- 🚀 Always trying to improve myself
+- 🎓 Informatics Management student
+- 📍 Universitas Negeri Surabaya
+- 💡 Interested in technology and information systems
+- 🌱 Always open to learning something new
+
+---
+
+### 📊 GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arfaynee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=60A5FA" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+
+</div>
 
 ---
 
 <div align="center">
 
-*Learning, growing, and enjoying the process.*
+### ✨ A Little Reminder
+
+**"Keep learning, keep growing."**
+
+<sub>Made with enthusiasm by Farhan Bagas Firmansyah</sub>
 
 </div>
