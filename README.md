@@ -22,8 +22,6 @@
 
   <p>
     <a href="#about-me">ABOUT</a> &nbsp;•&nbsp;
-    <a href="#tech-arsenal">TECH STACK</a> &nbsp;•&nbsp;
-    <a href="#project-lab">PROJECTS</a> &nbsp;•&nbsp;
     <a href="#github-analytics">ANALYTICS</a> &nbsp;•&nbsp;
     <a href="#contribution-snake">SNAKE</a> &nbsp;•&nbsp;
     <a href="#beyond-the-code">INTERESTS</a>
@@ -65,63 +63,7 @@
 
 ---
 
-<h2 id="tech-arsenal">🛠️ 02 / TECH ARSENAL</h2>
-
-<div align="center">
-  <p><strong>Technologies I'm learning and working with.</strong></p>
-
-  <h4>WEB DEVELOPMENT & DATABASE</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql&amp;theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL" />
-
-  <h4>PROGRAMMING & GAME DEVELOPMENT</h4>
-  <img src="https://skillicons.dev/icons?i=python,cs,unity&amp;theme=dark" alt="Python, C sharp, and Unity" />
-
-  <h4>DEVELOPER TOOLKIT</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&amp;theme=dark" alt="Visual Studio Code, Git, GitHub" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LEARNING%20MODE-ON-FF7A1A?style=for-the-badge&amp;labelColor=101014" alt="Learning mode on" />
-</div>
-
----
-
-<h2 id="project-lab">🚀 03 / PROJECT LAB</h2>
-
-<p>Some of the ideas and projects I explore while learning.</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🕵️ Narrative Detective Game</h3>
-<p>A 2D interactive detective experience focused on exploration, clues, conversations, and storytelling.</p>
-<img src="https://img.shields.io/badge/Unity-111111?style=flat-square&amp;logo=unity&amp;logoColor=white" alt="Unity" /> <img src="https://img.shields.io/badge/C%23-FF7A1A?style=flat-square" alt="C sharp" />
-</td>
-<td width="50%" valign="top">
-<h3>🌊 Ocean Raft Survival</h3>
-<p>Experimenting with survival mechanics, resources, character movement, and ocean exploration.</p>
-<img src="https://img.shields.io/badge/Unity-111111?style=flat-square&amp;logo=unity&amp;logoColor=white" alt="Unity" /> <img src="https://img.shields.io/badge/Game%20Systems-FF7A1A?style=flat-square" alt="Game systems" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🍔 KantinKita</h3>
-<p>A campus food pre-order website concept connecting people around campus with food stalls.</p>
-<img src="https://img.shields.io/badge/PHP-222222?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MySQL-FF7A1A?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-</td>
-<td width="50%" valign="top">
-<h3>🔬 Next Experiments</h3>
-<p>More projects, experiments, and discoveries along the way.</p>
-<a href="https://github.com/Arfaynee?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-FF7A1A?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
-</td>
-</tr>
-</table>
-
----
-
-<h2 id="github-analytics">📊 04 / GITHUB ANALYTICS</h2>
+<h2 id="github-analytics">📊 02 / GITHUB ANALYTICS</h2>
 
 <div align="center">
   <a href="https://github.com/Arfaynee">
@@ -142,7 +84,7 @@
 
 ---
 
-<h2 id="contribution-snake">🐍 05 / CONTRIBUTION SNAKE</h2>
+<h2 id="contribution-snake">🐍 03 / CONTRIBUTION SNAKE</h2>
 
 <div align="center">
   <p><em>Watch the orange snake travel through my GitHub contributions.</em></p>
@@ -156,7 +98,7 @@
 
 ---
 
-<h2 id="beyond-the-code">🎮 06 / BEYOND THE CODE</h2>
+<h2 id="beyond-the-code">🎮 04 / BEYOND THE CODE</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;weight=700&amp;duration=2200&amp;pause=800&amp;color=FF8C32&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=GAMING+%E2%80%A2+AUTOMOTIVE+%E2%80%A2+TECHNOLOGY;PLAY+SMART.+DRIVE+FORWARD.;NEW+CHALLENGE%3F+GAME+ON." alt="Gaming, Automotive, and Technology" />
@@ -185,7 +127,7 @@
 
 ---
 
-<h2 align="center">🤝 07 / LET'S CONNECT</h2>
+<h2 align="center">🤝 05 / LET'S CONNECT</h2>
 
 <div align="center">
   <p>Open to exchanging ideas, discussing technology, and learning together.</p>
