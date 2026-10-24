@@ -1,52 +1,85 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B33,50:5B3CC4,100:168AAD&height=220&section=header&text=Farhan%20Bagas%20Firmansyah&fontSize= thirty&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Management%20Student&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,45:4935A8,100:168AAD&height=230&section=header&text=FARHAN%20BAGAS%20FIRMANSYAH&fontSize=30&fontColor=FFFFFF&fontAlignY=38&desc=INFORMATICS%20MANAGEMENT%20STUDENT&descSize=14&descAlignY=58&animation=fadeIn" />
+
+<a href="https://github.com/Arfaynee">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner;Universitas+Negeri+Surabaya;Learning+and+growing+every+day" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/University-Universitas%20Negeri%20Surabaya-4935A8?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Major-Informatics%20Management-168AAD?style=for-the-badge" />
 
 </div>
 
+<br/>
+
+## ✦ About Me
+
+> Just a student learning, exploring, and enjoying the journey.  
+> Taking small steps toward bigger goals.
+
+- 🎓 **Study:** Informatics Management
+- 🏫 **University:** Universitas Negeri Surabaya
+- 🌏 **Location:** Indonesia
+- ✨ **Currently:** Learning and exploring new things
+
+<br/>
+
+## ✦ My Journey
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎓 Education
+
+Universitas Negeri Surabaya
+
+Informatics Management
+
+</td>
+<td width="50%" align="center">
+
+### 🌱 Personal Growth
+
+Learning new things
+
+Building experience
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ✦ GitHub Statistics
+
 <div align="center">
 
-### 👋 Hello, Welcome to My GitHub!
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arfaynee&show_icons=true&hide_border=true&rank_icon=github&bg_color=080B14&title_color=A78BFA&text_color=D4D4D8&icon_color=60A5FA" />
 
-🎓 **Universitas Negeri Surabaya**  
-📚 Informatics Management
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&layout=compact&hide_border=true&bg_color=080B14&title_color=A78BFA&text_color=D4D4D8" />
 
-*Learning, growing, and enjoying the process.*
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arfaynee&hide_border=true&background=080B14&stroke=4935A8&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=D4D4D8&dates=8B949E" width="80%" />
 
 </div>
 
----
-
-### 🙋 About Me
-
-Hi! I'm **Farhan Bagas Firmansyah**, a student at Universitas Negeri Surabaya. I'm currently learning new things, exploring technology, and developing my skills step by step.
-
-- 🎓 Informatics Management student
-- 📍 Universitas Negeri Surabaya
-- 💡 Interested in technology and information systems
-- 🌱 Always open to learning something new
-
----
-
-### 📊 GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arfaynee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=60A5FA" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-### ✨ A Little Reminder
+### ✧ A Little Reminder
 
-**"Keep learning, keep growing."**
+**Small progress is still progress.**
 
-<sub>Made with enthusiasm by Farhan Bagas Firmansyah</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:168AAD,50:4935A8,100:080B14&height=100&section=footer" width="100%" />
+
+<sub>© Farhan Bagas Firmansyah · Made with enthusiasm</sub>
 
 </div>
