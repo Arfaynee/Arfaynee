@@ -1,4 +1,4 @@
-<!-- FARHAN BAGAS FIRMANSYAH | MINIMAL CYBER ORANGE × TIGER -->
+<!-- FARHAN BAGAS FIRMANSYAH | MINIMAL CYBER ORANGE -->
 <div align="center">
 
 <img src="./assets/cyber-header.svg" width="100%" alt="Farhan Bagas Firmansyah — GitHub Profile" />
@@ -12,7 +12,7 @@
   <a href="https://github.com/Arfaynee?tab=followers"><img src="https://img.shields.io/github/followers/Arfaynee?label=FOLLOWERS&amp;style=flat-square&amp;color=C88752&amp;labelColor=20242B" alt="GitHub followers" /></a>
 </p>
 
-<a href="#about-me">About</a> &nbsp;·&nbsp; <a href="#github-analytics">Analytics</a> &nbsp;·&nbsp; <a href="#tiger-mode">Tiger Mode</a> &nbsp;·&nbsp; <a href="#beyond-the-code">Interests</a> &nbsp;·&nbsp; <a href="#connect">Connect</a>
+<a href="#about-me">About</a> &nbsp;·&nbsp; <a href="#github-analytics">Analytics</a> &nbsp;·&nbsp; <a href="#my-journey">My Journey</a> &nbsp;·&nbsp; <a href="#beyond-the-code">Interests</a> &nbsp;·&nbsp; <a href="#connect">Connect</a>
 
 </div>
 
@@ -66,11 +66,11 @@ status: Always learning</code></pre>
 
 ---
 
-<h2 id="tiger-mode">03 / Tiger Mode</h2>
+<h2 id="my-journey">03 / My Journey</h2>
 
 <div align="center">
 
-<img src="./assets/tiger.gif" width="100%" alt="Subtle animated tiger banner" />
+<img src="./assets/tiger.gif" width="100%" alt="Animated fierce tiger with subtle breathing and blinking eyes" />
 
 </div>
 
