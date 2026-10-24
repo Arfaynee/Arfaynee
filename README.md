@@ -1,11 +1,18 @@
 
-<!-- ===================== HEADER ===================== -->
+<!-- ================================================== -->
+<!-- FARHAN BAGAS FIRMANSYAH | GITHUB PROFILE README   -->
+<!-- THEME: BLACK x ORANGE                              -->
+<!-- ================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:202020,75:FF6A00,100:FF9D00&height=230&section=header&text=FARHAN%20BAGAS%20FIRMANSYAH&fontSize=29&fontColor=FFFFFF&fontAlignY=36&desc=INFORMATICS%20MANAGEMENT%20STUDENT&descSize=15&descAlignY=58&animation=fadeIn" />
+<!-- ANIMATED HEADER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=FF8C32&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub;Universitas+Negeri+Surabaya;Learning+and+growing+every+day;Small+steps%2C+big+dreams" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:202020,70:FF6A00,100:FF9D00&height=230&section=header&text=FARHAN%20BAGAS%20FIRMANSYAH&fontSize=29&fontColor=FFFFFF&fontAlignY=36&desc=INFORMATICS%20MANAGEMENT%20STUDENT&descSize=15&descAlignY=58&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=FF8C32&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub;Universitas+Negeri+Surabaya;Learning+and+growing+every+day;Small+steps%2C+big+dreams" alt="Animated introduction" />
 
 <br/><br/>
 
@@ -19,7 +26,7 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ================= ABOUT ME ================= -->
 
 <h2 align="center">🟠 ABOUT ME</h2>
 
@@ -33,9 +40,10 @@ I'm **Farhan Bagas Firmansyah**, an Informatics Management student at **Universi
 
 I enjoy learning new things, exploring technology, and gaining experience step by step.
 
-My goal is to keep improving my skills and learn something new along the way.
+My goal is to keep improving my skills and discover new opportunities.
 
 </td>
+
 <td width="40%" valign="top">
 
 ### ⚡ A Little About Me
@@ -53,7 +61,7 @@ My goal is to keep improving my skills and learn something new along the way.
 
 ---
 
-<!-- ===================== MY JOURNEY ===================== -->
+<!-- ================= MY JOURNEY ================= -->
 
 <h2 align="center">🔥 MY JOURNEY</h2>
 
@@ -61,6 +69,7 @@ My goal is to keep improving my skills and learn something new along the way.
 
 <table align="center" width="90%">
 <tr>
+
 <td align="center" width="33%">
 
 <img src="https://img.shields.io/badge/01-FF6A00?style=for-the-badge" />
@@ -100,6 +109,7 @@ New Ideas
 Better Future
 
 </td>
+
 </tr>
 </table>
 
@@ -107,32 +117,47 @@ Better Future
 
 ---
 
-<!-- ===================== MY LITTLE CORNER ===================== -->
+<!-- ================= MY LITTLE CORNER ================= -->
 
 <h2 align="center">🎮 MY LITTLE CORNER</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GAMING-LEVEL%20UP-FF6A00?style=for-the-badge&logo=steam&logoColor=white" />
-<img src="https://img.shields.io/badge/AUTOMOTIVE-FULL%20THROTTLE-242424?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TECH-ALWAYS%20LEARNING-CC5200?style=for-the-badge" />
+<!-- ANIMATED GAMING TEXT -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=FF7A00&center=true&vCenter=true&width=500&lines=⚡+WELCOME+TO+MY+ZONE+⚡;🎮+GAMING+MODE+ON;🏎️+SPEED.+FOCUS.+CONTROL.;🔥+BLACK+%26+ORANGE+ENERGY" alt="Gaming animation" />
 
 <br/><br/>
 
+<!-- GAMING BADGES -->
+
+<img src="https://img.shields.io/badge/GAMING-LEVEL%20UP-FF6A00?style=for-the-badge&logo=steam&logoColor=white&labelColor=111111" />
+<img src="https://img.shields.io/badge/AUTOMOTIVE-FULL%20THROTTLE-FF8C32?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/TECH-ALWAYS%20LEARNING-333333?style=for-the-badge&labelColor=111111" />
+
+<br/><br/>
+
+<!-- ORANGE BLACK BANNER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:101010,35:292929,70:8A3500,100:FF6A00&height=160&section=header&text=GAME%20ON&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=PLAY%20HARD%20%7C%20STAY%20FOCUSED&descSize=14&descAlignY=70&animation=fadeIn" />
+
+<br/>
+
+<!-- GAMING DECORATION -->
+
 <pre>
-             ⚡ ORANGE MODE ⚡
+       ⚡       🎧       ⚡
 
-       🎧          🎮          🏎️
+          🎮 GAME MODE 🎮
 
-             ╔════════════╗
-             ║  GAME ON   ║
-             ║  LEVEL UP  ║
-             ╚════════════╝
+       🕹️       💻       🏎️
 
-       🕹️          💻          🔥
-
-       BLACK × ORANGE × GAMING
+        BLACK × ORANGE
 </pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=FF8C32&center=true&vCenter=true&width=480&lines=Gaming+is+my+escape.;Technology+is+my+journey.;Keep+learning.+Keep+moving.;No+limits.+Just+progress." alt="Animated gaming motto" />
+
+<br/><br/>
 
 <h3>🎧 Gaming • Cars • Technology</h3>
 
@@ -144,7 +169,7 @@ Better Future
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ================= GITHUB STATISTICS ================= -->
 
 <h2 align="center">📊 GITHUB STATISTICS</h2>
 
@@ -152,7 +177,7 @@ Better Future
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arfaynee&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF8C32&text_color=FFFFFF&icon_color=FF6A00" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF8C32&text_color=FFFFFF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF8C32&text_color=FFFFFF" alt="Most Used Languages" />
 
 <br/><br/>
 
@@ -162,19 +187,19 @@ Better Future
 
 ---
 
-<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
 <h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arfaynee&bg_color=0D0D0D&color=FF8C32&line=FF6A00&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arfaynee&bg_color=0D0D0D&color=FF8C32&line=FF6A00&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity" />
 
 </div>
 
 ---
 
-<!-- ===================== GOAL ===================== -->
+<!-- ================= MOTIVATION ================= -->
 
 <div align="center">
 
@@ -182,7 +207,7 @@ Better Future
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FF8C32&center=true&vCenter=true&width=450&lines=Small+steps%2C+big+dreams.;Keep+learning%2C+keep+growing.;Your+journey%2C+your+story." alt="Motivational Text" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FF8C32&center=true&vCenter=true&width=450&lines=Small+steps%2C+big+dreams.;Keep+learning%2C+keep+growing.;Your+journey%2C+your+story." alt="Animated motivation" />
 
 <br/><br/>
 
