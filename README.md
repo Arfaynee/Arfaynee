@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<!-- ORANGE & BLACK HEADER -->
+<!-- HEADER ORANGE BLACK -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:252525,75:FF6A00,100:FF9D00&height=220&section=header&text=FARHAN%20BAGAS%20FIRMANSYAH&fontSize=29&fontColor=FFFFFF&fontAlignY=36&desc=INFORMATICS%20MANAGEMENT%20STUDENT&descSize=14&descAlignY=57&animation=fadeIn" />
 
 <!-- ANIMATED TEXT -->
@@ -9,23 +9,21 @@
 
 <br/><br/>
 
-<!-- BADGES -->
-<img src="https://img.shields.io/badge/🎓-UNESA-FF6A00?style=for-the-badge&labelColor=171717" />
-<img src="https://img.shields.io/badge/📚-INFORMATICS%20MANAGEMENT-FF8C32?style=for-the-badge&labelColor=171717" />
-<img src="https://img.shields.io/badge/🌍-INDONESIA-303030?style=for-the-badge&labelColor=080808" />
+<img src="https://img.shields.io/badge/UNIVERSITY-UNESA-FF6A00?style=for-the-badge&labelColor=171717" />
+<img src="https://img.shields.io/badge/MAJOR-INFORMATICS%20MANAGEMENT-FF8C32?style=for-the-badge&labelColor=171717" />
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA-303030?style=for-the-badge&labelColor=080808" />
 
 </div>
 
 <br/>
 
-<!-- ABOUT ME -->
-<h2 align="center">🟠 ABOUT ME</h2>
+---
 
-<div align="center">
+<h2 align="center">🟠 ABOUT ME</h2>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ### 👋 Hello, I'm Farhan!
 
@@ -34,7 +32,7 @@ I'm **Farhan Bagas Firmansyah**, an Informatics Management student at **Universi
 I enjoy learning new things, exploring technology, and gaining experience step by step.
 
 </td>
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 ### ⚡ A Little About Me
 
@@ -48,14 +46,9 @@ I enjoy learning new things, exploring technology, and gaining experience step b
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
-
-<!-- MY JOURNEY -->
 <h2 align="center">🔥 MY JOURNEY</h2>
-
-<div align="center">
 
 <table>
 <tr>
@@ -99,28 +92,37 @@ Better Future
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
-
-<!-- INTERESTS -->
 <h2 align="center">🎮 MY LITTLE CORNER</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GAMING-Enjoy%20the%20moment-FF6A00?style=for-the-badge&logo=steam&logoColor=white" />
-<img src="https://img.shields.io/badge/LEARNING-One%20step%20at%20a%20time-242424?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VIBES-Stay%20positive-CC5200?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GAMING-ENJOY%20THE%20MOMENT-FF6A00?style=for-the-badge&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/LEARNING-ONE%20STEP%20AT%20A%20TIME-242424?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VIBES-STAY%20POSITIVE-CC5200?style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="160" alt="Cute animated cat" />
+<pre>
+      ✦       .        ✧
+   🎧     🎮     🧸
+       ╭──────────╮
+       │  CHILL   │
+       │  & PLAY  │
+       ╰──────────╯
+   🕹️     🐈‍⬛     ✨
+      .        ✦
+</pre>
+
+### 🎧 Gaming • Chill • Good Vibes
+
+<sub>☕ Take a break, enjoy the journey.</sub>
 
 </div>
 
-<br/>
+---
 
-<!-- GITHUB STATS -->
 <h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <div align="center">
@@ -131,27 +133,25 @@ Better Future
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfaynee&hide_border=true&background=0D0D0D&stroke=663300&ring=FF8C32&fire=FF6A00&currStreakLabel=FF8C32&sideLabels=E5E5E5&dates=999999" />
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfaynee&hide_border=true&background=0D0D0D&stroke=663300&ring=FF8C32&fire=FF6A00&currStreakLabel=FF8C32&sideLabels=E5E5E5&dates=999999" />
 
 </div>
 
-<br/>
+---
 
-<!-- CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arfaynee&bg_color=0D0D0D&color=FF8C32&line=FF6A00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arfaynee&bg_color=0D0D0D&color=FF8C32&line=FF6A00&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
-<br/>
+---
 
-<!-- MOTIVATION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,50:3A1C00,100:FF6A00&height=120&section=header&text=MAKE%20PROGRESS&fontSize=27&fontColor=FFFFFF&fontAlignY=40&desc=NOT%20EXCUSES&descSize=16&descAlignY=70" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,50:3A1C00,100:FF6A00&height=120&section=header&text=MAKE%20PROGRESS&fontSize=27&fontColor=FFFFFF&fontAlignY=38&desc=NOT%20EXCUSES&descSize=16&descAlignY=68" />
 
 <br/>
 
