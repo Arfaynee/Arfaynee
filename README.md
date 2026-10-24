@@ -1,140 +1,119 @@
-<!--
-  FARHAN BAGAS FIRMANSYAH
-  GITHUB PROFILE README — CYBER ORANGE / DEVELOPER COMMAND CENTER
-  Profile: https://github.com/Arfaynee
-  All assets in this README are relative to this repository.
--->
-
+<!-- FARHAN BAGAS FIRMANSYAH | MINIMAL CYBER ORANGE × TIGER -->
 <div align="center">
-  <img src="./assets/cyber-header.svg" width="100%" alt="Farhan Bagas Firmansyah — Informatics Management Student" />
 
-  <br />
+<img src="./assets/cyber-header.svg" width="100%" alt="Farhan Bagas Firmansyah — GitHub Profile" />
 
-  <a href="https://github.com/Arfaynee">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2300&amp;pause=900&amp;color=FF8C32&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E+INITIALIZING+FARHAN.EXE...;%3E+HELLO%2C+WORLD!+I%27M+FARHAN.;%3E+WEB+DEVELOPMENT+%7C+GAME+DEVELOPMENT;%3E+LEARN.+BUILD.+EVOLVE.&amp;repeat=true" alt="Animated developer introduction" />
-  </a>
+<br />
 
-  <p>
-    <a href="https://github.com/Arfaynee"><img src="https://img.shields.io/badge/STATUS-BUILDING%20MY%20FUTURE-FF6A00?style=for-the-badge&amp;labelColor=101014" alt="Status" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Arfaynee&amp;label=PROFILE%20VIEWS&amp;color=FF8429&amp;style=for-the-badge" alt="Profile views" />
-    <a href="https://github.com/Arfaynee?tab=followers"><img src="https://img.shields.io/github/followers/Arfaynee?label=FOLLOWERS&amp;style=for-the-badge&amp;color=FF6A00&amp;labelColor=101014" alt="GitHub followers" /></a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=17&amp;duration=2800&amp;pause=1200&amp;color=D18A51&amp;center=true&amp;vCenter=true&amp;width=540&amp;lines=Learning+new+things+every+day;Building+ideas+into+projects;Keep+learning.+Keep+growing." alt="Short profile introduction" />
 
-  <p>
-    <a href="#about-me">ABOUT</a> &nbsp;•&nbsp;
-    <a href="#github-analytics">ANALYTICS</a> &nbsp;•&nbsp;
-    <a href="#contribution-snake">SNAKE</a> &nbsp;•&nbsp;
-    <a href="#beyond-the-code">INTERESTS</a>
-  </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Arfaynee&amp;label=PROFILE+VIEWS&amp;color=C88752&amp;style=flat-square" alt="Profile views" />
+  <a href="https://github.com/Arfaynee?tab=followers"><img src="https://img.shields.io/github/followers/Arfaynee?label=FOLLOWERS&amp;style=flat-square&amp;color=C88752&amp;labelColor=20242B" alt="GitHub followers" /></a>
+</p>
+
+<a href="#about-me">About</a> &nbsp;·&nbsp; <a href="#github-analytics">Analytics</a> &nbsp;·&nbsp; <a href="#tiger-mode">Tiger Mode</a> &nbsp;·&nbsp; <a href="#beyond-the-code">Interests</a> &nbsp;·&nbsp; <a href="#connect">Connect</a>
+
 </div>
 
 ---
 
-<h2 id="about-me">⚡ 01 / ABOUT ME</h2>
+<h2 id="about-me">01 / About Me</h2>
 
 <table>
 <tr>
-<td width="58%" valign="top">
-<h3>Hello, I'm Farhan! 👋</h3>
-<p>I'm <strong>Farhan Bagas Firmansyah</strong>, an <strong>Informatics Management</strong> student at <strong>Universitas Negeri Surabaya (UNESA)</strong> 🇮🇩.</p>
-<p>I enjoy turning ideas into digital experiences, experimenting with code, and exploring the intersection of <strong>web technology</strong>, <strong>game development</strong>, and <strong>creative problem-solving</strong>.</p>
-<p><strong>My philosophy:</strong> <em>Stay curious. Build consistently. Improve every day.</em></p>
+<td width="61%" valign="top">
+
+<h3>Hello, I'm Farhan 👋</h3>
+<p>I'm <strong>Farhan Bagas Firmansyah</strong>, an <strong>Informatics Management</strong> student at <strong>Universitas Negeri Surabaya (UNESA)</strong>, Indonesia.</p>
+<p>I'm interested in building useful digital experiences, exploring game development, and improving my programming skills one project at a time.</p>
+<p><em>Stay curious. Build consistently. Improve every day.</em></p>
+
 </td>
-<td width="42%" valign="top">
-<pre><code>farhan:
-  university: UNESA
-  major: Informatics Management
-  location: Indonesia
-  interests:
-    - Web Development
-    - Game Development
-    - Gaming &amp; Automotive
-  mindset: "Always learning"
-  status: "Developer in progress"</code></pre>
+<td width="39%" valign="top">
+
+<pre><code>name: Farhan Bagas Firmansyah
+university: UNESA
+major: Informatics Management
+interests:
+  - Web Development
+  - Game Development
+  - Gaming &amp; Automotive
+status: Always learning</code></pre>
+
 </td>
 </tr>
 </table>
 
+---
+
+<h2 id="github-analytics">02 / GitHub Analytics</h2>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-FF6A00?style=flat-square&amp;labelColor=151519" alt="Web development" />
-  <img src="https://img.shields.io/badge/EXPLORING-UNITY%20%26%20C%23-FF9A3E?style=flat-square&amp;labelColor=151519" alt="Unity and C sharp" />
-  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20GROWTH-FFBD78?style=flat-square&amp;labelColor=151519" alt="Continuous growth" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arfaynee&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=D18A51&amp;text_color=BFC6D0&amp;icon_color=D18A51" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=D18A51&amp;text_color=BFC6D0" alt="Most used languages" />
+
+<br /><br />
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Arfaynee&amp;hide_border=true&amp;background=0D1117&amp;ring=D18A51&amp;fire=C88752&amp;currStreakLabel=D18A51&amp;sideLabels=BFC6D0&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=888F9A" alt="GitHub streak" />
+
+<br /><br />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arfaynee&amp;theme=github_dark" alt="GitHub profile contribution summary" />
+
 </div>
 
 ---
 
-<h2 id="github-analytics">📊 02 / GITHUB ANALYTICS</h2>
+<h2 id="tiger-mode">03 / Tiger Mode</h2>
 
 <div align="center">
-  <a href="https://github.com/Arfaynee">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arfaynee&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0D13&amp;title_color=FF8B38&amp;text_color=CDD1DB&amp;icon_color=FF6A00&amp;rank_icon=github" alt="Farhan's GitHub statistics" />
-  </a>
-  <a href="https://github.com/Arfaynee?tab=repositories">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0D13&amp;title_color=FF8B38&amp;text_color=CDD1DB&amp;langs_count=8" alt="Most used languages" />
-  </a>
-  <br />
-  <img width="76%" src="https://streak-stats.demolab.com?user=Arfaynee&amp;hide_border=true&amp;background=0B0D13&amp;ring=FF6A00&amp;fire=FF9A3E&amp;currStreakLabel=FF9A3E&amp;sideLabels=CDD1DB&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=8D92A0" alt="GitHub contribution streak" />
-</div>
 
-<br />
+<img src="./assets/tiger.gif" width="100%" alt="Subtle animated tiger banner" />
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arfaynee&amp;bg_color=0B0D13&amp;color=FF9B4A&amp;line=FF6A00&amp;point=FFD2A8&amp;area=true&amp;area_color=FF6A00&amp;hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 ---
 
-<h2 id="contribution-snake">🐍 03 / CONTRIBUTION SNAKE</h2>
+<h2 id="beyond-the-code">04 / Beyond the Code</h2>
 
 <div align="center">
-  <p><em>Watch the orange snake travel through my GitHub contributions.</em></p>
-  <!-- Generated by .github/workflows/snake.yml; will appear after the action runs successfully. -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arfaynee/Arfaynee/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arfaynee/Arfaynee/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/Arfaynee/Arfaynee/output/snake-dark.svg" width="100%" alt="Animated contribution snake — generated automatically by GitHub Actions" />
-  </picture>
-</div>
 
----
+<strong>Gaming</strong> &nbsp; · &nbsp; <strong>Automotive</strong> &nbsp; · &nbsp; <strong>Technology</strong>
 
-<h2 id="beyond-the-code">🎮 04 / BEYOND THE CODE</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;weight=700&amp;duration=2200&amp;pause=800&amp;color=FF8C32&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=GAMING+%E2%80%A2+AUTOMOTIVE+%E2%80%A2+TECHNOLOGY;PLAY+SMART.+DRIVE+FORWARD.;NEW+CHALLENGE%3F+GAME+ON." alt="Gaming, Automotive, and Technology" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AE_GAMING-LEVEL%20UP-FF6A00?style=for-the-badge&amp;labelColor=12141A" alt="Gaming" />
-  <img src="https://img.shields.io/badge/%F0%9F%8F%8E_AUTOMOTIVE-FULL%20THROTTLE-FF8A32?style=for-the-badge&amp;labelColor=12141A" alt="Automotive" />
-  <img src="https://img.shields.io/badge/%E2%9A%A1_TECHNOLOGY-STAY%20CURIOUS-FFAE67?style=for-the-badge&amp;labelColor=12141A" alt="Technology" />
-</div>
-
-<br />
+<p>Exploring new interests, enjoying creative challenges, and always finding something new to learn.</p>
 
 <details>
-<summary><strong>⌨️ OPEN DEVELOPER LOG — A LITTLE MORE ABOUT ME</strong></summary>
+<summary>More about me</summary>
 <br />
 
 ```text
-[BOOT] Farhan's curiosity engine       ........ ONLINE
-[INFO] Favorite things                 ........ games, cars, tech
-[INFO] Main quest                      ........ keep improving
-[INFO] Side quests                     ........ new experiences
-[PASS] Motivation                      ........ never stop learning
-[EXIT] See you in the next commit!     ........ ✓
+[+] Learning something new
+[+] Building my next idea
+[+] Making steady progress
 ```
 
 </details>
 
+</div>
+
 ---
 
-<h2 align="center">🤝 05 / LET'S CONNECT</h2>
+<h2 id="connect">05 / Let's Connect</h2>
 
 <div align="center">
-  <p>Open to exchanging ideas, discussing technology, and learning together.</p>
-  <a href="https://github.com/Arfaynee"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20PROFILE-FF6A00?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=12141A" alt="Visit GitHub profile" /></a>
-  <a href="https://github.com/Arfaynee?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-VIEW%20REPOSITORIES-FF8C32?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=12141A" alt="See repositories" /></a>
-  <br /><br />
-  <img src="./assets/cyber-footer.svg" width="100%" alt="Build. Explore. Evolve." />
-  <br />
-  <sub>Made with 🧡 by <strong>Farhan Bagas Firmansyah</strong> • UNESA • Indonesia</sub>
+
+Want to share ideas or talk about technology? Feel free to connect.
+
+<br /><br />
+
+<a href="https://github.com/Arfaynee"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-C88752?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=20242B" alt="GitHub Profile" /></a>
+
+<br /><br />
+
+<img src="./assets/cyber-footer.svg" width="100%" alt="Build with purpose. Keep growing." />
+
+<sub>Farhan Bagas Firmansyah · UNESA · Indonesia</sub>
+
 </div>
