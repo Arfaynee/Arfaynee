@@ -1,220 +1,198 @@
-
-<!-- ================================================== -->
-<!-- FARHAN BAGAS FIRMANSYAH | GITHUB PROFILE README   -->
-<!-- THEME: BLACK x ORANGE                              -->
-<!-- ================================================== -->
+<!--
+  FARHAN BAGAS FIRMANSYAH
+  GITHUB PROFILE README — CYBER ORANGE / DEVELOPER COMMAND CENTER
+  Profile: https://github.com/Arfaynee
+  All assets in this README are relative to this repository.
+-->
 
 <div align="center">
+  <img src="./assets/cyber-header.svg" width="100%" alt="Farhan Bagas Firmansyah — Informatics Management Student" />
 
-<!-- ANIMATED HEADER -->
+  <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:202020,70:FF6A00,100:FF9D00&height=230&section=header&text=FARHAN%20BAGAS%20FIRMANSYAH&fontSize=29&fontColor=FFFFFF&fontAlignY=36&desc=INFORMATICS%20MANAGEMENT%20STUDENT&descSize=15&descAlignY=58&animation=fadeIn" />
+  <a href="https://github.com/Arfaynee">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=2300&amp;pause=900&amp;color=FF8C32&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E+INITIALIZING+FARHAN.EXE...;%3E+HELLO%2C+WORLD!+I%27M+FARHAN.;%3E+WEB+DEVELOPMENT+%7C+GAME+DEVELOPMENT;%3E+LEARN.+BUILD.+EVOLVE.&amp;repeat=true" alt="Animated developer introduction" />
+  </a>
 
-<!-- TYPING ANIMATION -->
+  <p>
+    <a href="https://github.com/Arfaynee"><img src="https://img.shields.io/badge/STATUS-BUILDING%20MY%20FUTURE-FF6A00?style=for-the-badge&amp;labelColor=101014" alt="Status" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Arfaynee&amp;label=PROFILE%20VIEWS&amp;color=FF8429&amp;style=for-the-badge" alt="Profile views" />
+    <a href="https://github.com/Arfaynee?tab=followers"><img src="https://img.shields.io/github/followers/Arfaynee?label=FOLLOWERS&amp;style=for-the-badge&amp;color=FF6A00&amp;labelColor=101014" alt="GitHub followers" /></a>
+  </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=FF8C32&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub;Universitas+Negeri+Surabaya;Learning+and+growing+every+day;Small+steps%2C+big+dreams" alt="Animated introduction" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/UNIVERSITY-UNESA-FF6A00?style=for-the-badge&labelColor=171717" />
-<img src="https://img.shields.io/badge/MAJOR-INFORMATICS%20MANAGEMENT-FF8C32?style=for-the-badge&labelColor=171717" />
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA-303030?style=for-the-badge&labelColor=080808" />
-
+  <p>
+    <a href="#about-me">ABOUT</a> &nbsp;•&nbsp;
+    <a href="#tech-arsenal">TECH STACK</a> &nbsp;•&nbsp;
+    <a href="#project-lab">PROJECTS</a> &nbsp;•&nbsp;
+    <a href="#github-analytics">ANALYTICS</a> &nbsp;•&nbsp;
+    <a href="#contribution-snake">SNAKE</a> &nbsp;•&nbsp;
+    <a href="#beyond-the-code">INTERESTS</a>
+  </p>
 </div>
-
-<br/>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<h2 id="about-me">⚡ 01 / ABOUT ME</h2>
 
-<h2 align="center">🟠 ABOUT ME</h2>
-
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="60%" valign="top">
-
-### 👋 Hello, I'm Farhan!
-
-I'm **Farhan Bagas Firmansyah**, an Informatics Management student at **Universitas Negeri Surabaya**.
-
-I enjoy learning new things, exploring technology, and gaining experience step by step.
-
-My goal is to keep improving my skills and discover new opportunities.
-
+<td width="58%" valign="top">
+<h3>Hello, I'm Farhan! 👋</h3>
+<p>I'm <strong>Farhan Bagas Firmansyah</strong>, an <strong>Informatics Management</strong> student at <strong>Universitas Negeri Surabaya (UNESA)</strong> 🇮🇩.</p>
+<p>I enjoy turning ideas into digital experiences, experimenting with code, and exploring the intersection of <strong>web technology</strong>, <strong>game development</strong>, and <strong>creative problem-solving</strong>.</p>
+<p><strong>My philosophy:</strong> <em>Stay curious. Build consistently. Improve every day.</em></p>
 </td>
+<td width="42%" valign="top">
+<pre><code>farhan:
+  university: UNESA
+  major: Informatics Management
+  location: Indonesia
+  interests:
+    - Web Development
+    - Game Development
+    - Gaming &amp; Automotive
+  mindset: "Always learning"
+  status: "Developer in progress"</code></pre>
+</td>
+</tr>
+</table>
 
-<td width="40%" valign="top">
+<div align="center">
+  <img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-FF6A00?style=flat-square&amp;labelColor=151519" alt="Web development" />
+  <img src="https://img.shields.io/badge/EXPLORING-UNITY%20%26%20C%23-FF9A3E?style=flat-square&amp;labelColor=151519" alt="Unity and C sharp" />
+  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20GROWTH-FFBD78?style=flat-square&amp;labelColor=151519" alt="Continuous growth" />
+</div>
 
-### ⚡ A Little About Me
+---
 
-- 🎓 Informatics Management
-- 🏫 Universitas Negeri Surabaya
-- 🌍 Indonesia
-- 🎮 Gaming enthusiast
-- 🏎️ Automotive interest
-- 🌱 Always learning
+<h2 id="tech-arsenal">🛠️ 02 / TECH ARSENAL</h2>
 
+<div align="center">
+  <p><strong>Technologies I'm learning and working with.</strong></p>
+
+  <h4>WEB DEVELOPMENT & DATABASE</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql&amp;theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL" />
+
+  <h4>PROGRAMMING & GAME DEVELOPMENT</h4>
+  <img src="https://skillicons.dev/icons?i=python,cs,unity&amp;theme=dark" alt="Python, C sharp, and Unity" />
+
+  <h4>DEVELOPER TOOLKIT</h4>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&amp;theme=dark" alt="Visual Studio Code, Git, GitHub" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LEARNING%20MODE-ON-FF7A1A?style=for-the-badge&amp;labelColor=101014" alt="Learning mode on" />
+</div>
+
+---
+
+<h2 id="project-lab">🚀 03 / PROJECT LAB</h2>
+
+<p>Some of the ideas and projects I explore while learning.</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🕵️ Narrative Detective Game</h3>
+<p>A 2D interactive detective experience focused on exploration, clues, conversations, and storytelling.</p>
+<img src="https://img.shields.io/badge/Unity-111111?style=flat-square&amp;logo=unity&amp;logoColor=white" alt="Unity" /> <img src="https://img.shields.io/badge/C%23-FF7A1A?style=flat-square" alt="C sharp" />
+</td>
+<td width="50%" valign="top">
+<h3>🌊 Ocean Raft Survival</h3>
+<p>Experimenting with survival mechanics, resources, character movement, and ocean exploration.</p>
+<img src="https://img.shields.io/badge/Unity-111111?style=flat-square&amp;logo=unity&amp;logoColor=white" alt="Unity" /> <img src="https://img.shields.io/badge/Game%20Systems-FF7A1A?style=flat-square" alt="Game systems" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🍔 KantinKita</h3>
+<p>A campus food pre-order website concept connecting people around campus with food stalls.</p>
+<img src="https://img.shields.io/badge/PHP-222222?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MySQL-FF7A1A?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+</td>
+<td width="50%" valign="top">
+<h3>🔬 Next Experiments</h3>
+<p>More projects, experiments, and discoveries along the way.</p>
+<a href="https://github.com/Arfaynee?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-FF7A1A?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- ================= MY JOURNEY ================= -->
-
-<h2 align="center">🔥 MY JOURNEY</h2>
+<h2 id="github-analytics">📊 04 / GITHUB ANALYTICS</h2>
 
 <div align="center">
+  <a href="https://github.com/Arfaynee">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arfaynee&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0D13&amp;title_color=FF8B38&amp;text_color=CDD1DB&amp;icon_color=FF6A00&amp;rank_icon=github" alt="Farhan's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Arfaynee?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0D13&amp;title_color=FF8B38&amp;text_color=CDD1DB&amp;langs_count=8" alt="Most used languages" />
+  </a>
+  <br />
+  <img width="76%" src="https://streak-stats.demolab.com?user=Arfaynee&amp;hide_border=true&amp;background=0B0D13&amp;ring=FF6A00&amp;fire=FF9A3E&amp;currStreakLabel=FF9A3E&amp;sideLabels=CDD1DB&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=8D92A0" alt="GitHub contribution streak" />
+</div>
 
-<table align="center" width="90%">
-<tr>
+<br />
 
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/01-FF6A00?style=for-the-badge" />
-
-<h3>🎓 Education</h3>
-
-Universitas Negeri Surabaya
-
-Informatics Management
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/02-FF8C32?style=for-the-badge" />
-
-<h3>💻 Learning</h3>
-
-Technology
-
-Information Systems
-
-New Experiences
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/03-CC5200?style=for-the-badge" />
-
-<h3>🚀 Growth</h3>
-
-Better Skills
-
-New Ideas
-
-Better Future
-
-</td>
-
-</tr>
-</table>
-
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arfaynee&amp;bg_color=0B0D13&amp;color=FF9B4A&amp;line=FF6A00&amp;point=FFD2A8&amp;area=true&amp;area_color=FF6A00&amp;hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 ---
 
-<!-- ================= MY LITTLE CORNER ================= -->
-
-<h2 align="center">🎮 MY LITTLE CORNER</h2>
+<h2 id="contribution-snake">🐍 05 / CONTRIBUTION SNAKE</h2>
 
 <div align="center">
-
-<!-- ANIMATED GAMING TEXT -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=FF7A00&center=true&vCenter=true&width=500&lines=⚡+WELCOME+TO+MY+ZONE+⚡;🎮+GAMING+MODE+ON;🏎️+SPEED.+FOCUS.+CONTROL.;🔥+BLACK+%26+ORANGE+ENERGY" alt="Gaming animation" />
-
-<br/><br/>
-
-<!-- GAMING BADGES -->
-
-<img src="https://img.shields.io/badge/GAMING-LEVEL%20UP-FF6A00?style=for-the-badge&logo=steam&logoColor=white&labelColor=111111" />
-<img src="https://img.shields.io/badge/AUTOMOTIVE-FULL%20THROTTLE-FF8C32?style=for-the-badge&labelColor=111111" />
-<img src="https://img.shields.io/badge/TECH-ALWAYS%20LEARNING-333333?style=for-the-badge&labelColor=111111" />
-
-<br/><br/>
-
-<!-- ORANGE BLACK BANNER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:101010,35:292929,70:8A3500,100:FF6A00&height=160&section=header&text=GAME%20ON&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=PLAY%20HARD%20%7C%20STAY%20FOCUSED&descSize=14&descAlignY=70&animation=fadeIn" />
-
-<br/>
-
-<!-- GAMING DECORATION -->
-
-<pre>
-       ⚡       🎧       ⚡
-
-          🎮 GAME MODE 🎮
-
-       🕹️       💻       🏎️
-
-        BLACK × ORANGE
-</pre>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=FF8C32&center=true&vCenter=true&width=480&lines=Gaming+is+my+escape.;Technology+is+my+journey.;Keep+learning.+Keep+moving.;No+limits.+Just+progress." alt="Animated gaming motto" />
-
-<br/><br/>
-
-<h3>🎧 Gaming • Cars • Technology</h3>
-
-<p>
-  <sub>Play hard. Stay focused. Keep improving.</sub>
-</p>
-
+  <p><em>Watch the orange snake travel through my GitHub contributions.</em></p>
+  <!-- Generated by .github/workflows/snake.yml; will appear after the action runs successfully. -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arfaynee/Arfaynee/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arfaynee/Arfaynee/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Arfaynee/Arfaynee/output/snake-dark.svg" width="100%" alt="Animated contribution snake — generated automatically by GitHub Actions" />
+  </picture>
 </div>
 
 ---
 
-<!-- ================= GITHUB STATISTICS ================= -->
-
-<h2 align="center">📊 GITHUB STATISTICS</h2>
+<h2 id="beyond-the-code">🎮 06 / BEYOND THE CODE</h2>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arfaynee&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF8C32&text_color=FFFFFF&icon_color=FF6A00" alt="GitHub Statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfaynee&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF8C32&text_color=FFFFFF" alt="Most Used Languages" />
-
-<br/><br/>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfaynee&theme=dark&hide_border=true&background=0D0D0D&ring=FF6A00&fire=FF8C32&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8C32&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;weight=700&amp;duration=2200&amp;pause=800&amp;color=FF8C32&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=GAMING+%E2%80%A2+AUTOMOTIVE+%E2%80%A2+TECHNOLOGY;PLAY+SMART.+DRIVE+FORWARD.;NEW+CHALLENGE%3F+GAME+ON." alt="Gaming, Automotive, and Technology" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE_GAMING-LEVEL%20UP-FF6A00?style=for-the-badge&amp;labelColor=12141A" alt="Gaming" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%8E_AUTOMOTIVE-FULL%20THROTTLE-FF8A32?style=for-the-badge&amp;labelColor=12141A" alt="Automotive" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_TECHNOLOGY-STAY%20CURIOUS-FFAE67?style=for-the-badge&amp;labelColor=12141A" alt="Technology" />
 </div>
+
+<br />
+
+<details>
+<summary><strong>⌨️ OPEN DEVELOPER LOG — A LITTLE MORE ABOUT ME</strong></summary>
+<br />
+
+```text
+[BOOT] Farhan's curiosity engine       ........ ONLINE
+[INFO] Favorite things                 ........ games, cars, tech
+[INFO] Main quest                      ........ keep improving
+[INFO] Side quests                     ........ new experiences
+[PASS] Motivation                      ........ never stop learning
+[EXIT] See you in the next commit!     ........ ✓
+```
+
+</details>
 
 ---
 
-<!-- ================= CONTRIBUTION ACTIVITY ================= -->
-
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
+<h2 align="center">🤝 07 / LET'S CONNECT</h2>
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arfaynee&bg_color=0D0D0D&color=FF8C32&line=FF6A00&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity" />
-
-</div>
-
----
-
-<!-- ================= MOTIVATION ================= -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,50:3A1C00,100:FF6A00&height=130&section=header&text=MAKE%20PROGRESS&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=NOT%20EXCUSES&descSize=16&descAlignY=68" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FF8C32&center=true&vCenter=true&width=450&lines=Small+steps%2C+big+dreams.;Keep+learning%2C+keep+growing.;Your+journey%2C+your+story." alt="Animated motivation" />
-
-<br/><br/>
-
-<sub>🟠 Farhan Bagas Firmansyah · Universitas Negeri Surabaya ⚫</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,50:252525,100:080808&height=100&section=footer" />
-
+  <p>Open to exchanging ideas, discussing technology, and learning together.</p>
+  <a href="https://github.com/Arfaynee"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20PROFILE-FF6A00?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=12141A" alt="Visit GitHub profile" /></a>
+  <a href="https://github.com/Arfaynee?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-VIEW%20REPOSITORIES-FF8C32?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=12141A" alt="See repositories" /></a>
+  <br /><br />
+  <img src="./assets/cyber-footer.svg" width="100%" alt="Build. Explore. Evolve." />
+  <br />
+  <sub>Made with 🧡 by <strong>Farhan Bagas Firmansyah</strong> • UNESA • Indonesia</sub>
 </div>
